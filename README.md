@@ -24,7 +24,7 @@ The Bot Battlr App is a React-based web application that enables users to intera
 To install and run the Bot Battlr App locally, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/bot-battlr-app.git
+   git clone https://github.com/kelvinkuria/bot-battlr-app.git
    ```
 2. Navigate to the project directory:
    ```
